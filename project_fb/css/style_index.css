@@ -1,0 +1,16 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+i{
+	margin: auto;
+	font-size: 30px !important;
+	width: 4%;
+	height: auto;
+	text-align: center;
+}
+i:hover{
+	background-color: rgba(12,0,3,0.2) !important;
+	border-radius: 5px;
+}
+.x-shop-footer{
+	font-size: 15px;
+	text-indent: 20px;
+}
